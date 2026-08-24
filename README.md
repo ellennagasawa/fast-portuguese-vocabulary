@@ -60,3 +60,14 @@ Isso significa:
 - nenhum dado é enviado ao GitHub;
 - o progresso fica no navegador/dispositivo usado pelo aluno;
 - trocar de unidade não apaga o progresso das outras unidades.
+
+## Créditos e adaptação
+
+Flashcard page created by Ellen Nagasawa
+https://ellennagasawa.github.io
+
+Vocabulary content selected and adapted from:
+
+FERNANDES, Eugênia; DE OLIVEIRA SILVA, Leonardo; ALMEIDA, Camila; MELLO, Tatiana. Plural: Português pluricêntrico. 2. ed. Boavista Press, 2023.
+
+Interactive adaptation for vocabulary practice by Ellen Nagasawa.
