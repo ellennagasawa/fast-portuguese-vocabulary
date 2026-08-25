@@ -1,0 +1,28 @@
+BANCO COMPLETO
+==============
+<div style="max-width: 950px; margin: 0 auto;">
+  <iframe
+    src="https://ellennagasawa.github.io/fast-portuguese-vocabulary/"
+    title="Banco de vocabulário interativo — Plural"
+    style="display:block; width:100%; min-height:850px; border:1px solid #ccd9e5; border-radius:10px;"
+    loading="lazy">
+  </iframe>
+</div>
+
+LINKS DIRETOS POR UNIDADE
+=========================
+Unidade 1: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=1
+Unidade 2: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=2
+Unidade 3: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=3
+Unidade 4: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=4
+Unidade 5: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=5
+Unidade 6: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=6
+Unidade 7: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=7
+Unidade 8: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=8
+Unidade 9: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=9
+Unidade 10: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=10
+Unidade 11: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=11
+Unidade 12: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=12
+Unidade 13: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=13
+Unidade 14: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=14
+Unidade 15: https://ellennagasawa.github.io/fast-portuguese-vocabulary/?unit=15
