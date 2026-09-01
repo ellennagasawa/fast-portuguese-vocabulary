@@ -330,3 +330,47 @@ footer {
   .toolbar { grid-template-columns: 1fr; }
   .unit-heading { flex-direction: column; }
 }
+
+/* Pronúncia — teste inicial na Unidade 1 */
+.audio-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.audio-row[hidden],
+#voiceControl[hidden] {
+  display: none !important;
+}
+
+.audio-btn {
+  padding: 10px 16px;
+  background: var(--navy);
+  color: var(--white);
+  border: 1px solid var(--navy);
+  border-radius: 999px;
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.audio-btn:hover,
+.audio-btn:focus-visible {
+  background: var(--blue);
+  border-color: var(--blue);
+}
+
+.audio-status {
+  min-height: 1.2em;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+/* A barra passa a ter cinco controles somente quando a voz está visível. */
+@media (min-width: 851px) {
+  .toolbar:has(#voiceControl:not([hidden])) {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
