@@ -898,3 +898,24 @@ footer {
 #audioRow[hidden] {
   display: none !important;
 }
+
+
+/* Centralização efetiva dos botões de áudio dentro dos cartões de Prática */
+.listen-prompt,
+.feedback-audio-btn {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.listen-prompt {
+  margin-top: 8px;
+  margin-bottom: 20px;
+}
+
+.feedback-audio-btn {
+  margin-top: 0;
+  margin-bottom: 0;
+}
