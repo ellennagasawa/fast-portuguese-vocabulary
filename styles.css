@@ -842,3 +842,59 @@ footer {
   display: none !important;
 }
 
+
+/* Padronização visual dos botões de áudio */
+.audio-row,
+.feedback-audio-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.audio-btn,
+.listen-prompt,
+.feedback-audio-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px 16px;
+  border: 1px solid var(--blue);
+  border-radius: 999px;
+  background: var(--light-blue);
+  color: var(--navy);
+  cursor: pointer;
+  font-weight: 700;
+  text-align: center;
+}
+
+.audio-btn:hover,
+.audio-btn:focus-visible,
+.listen-prompt:hover,
+.listen-prompt:focus-visible,
+.feedback-audio-btn:hover,
+.feedback-audio-btn:focus-visible {
+  background: var(--white);
+  border-color: var(--navy);
+  color: var(--navy);
+}
+
+.audio-btn .button-icon,
+.listen-prompt .button-icon,
+.feedback-audio-btn .button-icon {
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+  flex: 0 0 auto;
+}
+
+/* O estado hidden continua prevalecendo sobre o layout flex. */
+#exerciseListenBtn[hidden],
+#feedbackAudioRow[hidden],
+#feedbackAudioBtn[hidden],
+#audioRow[hidden] {
+  display: none !important;
+}
