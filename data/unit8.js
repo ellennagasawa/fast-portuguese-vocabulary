@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como era sua | tua alimentação antes da universidade?",
+      "speech": "Como era sua alimentação antes da universidade?",
+      "answers": [
+        "Como era sua alimentação antes da universidade?",
+        "Como era tua alimentação antes da universidade?"
+      ],
       "en": "What was your diet like before university?",
       "example": "Minha alimentação era...",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu tem/tens comido pensando na sua | tua saúde?",
+      "speech": "O que você tem comido pensando na sua saúde?",
+      "answers": [
+        "O que você tem comido pensando na sua saúde?",
+        "O que tu tens comido pensando na tua saúde?"
+      ],
       "en": "What have you been eating with your health in mind?",
       "example": "Eu tenho comido...",
       "essential": true,
@@ -22,6 +32,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que alimentos você | tu mais consome(s)? Quais menos consome(s)?",
+      "speech": "Que alimentos você mais consome? Quais menos consome?",
+      "answers": [
+        "Que alimentos você mais consome? Quais menos consome?",
+        "Que alimentos tu mais consomes? Quais menos consomes?"
+      ],
       "en": "Which foods do you consume most? Which do you consume least?",
       "example": "Eu consumo mais... Eu consumo menos...",
       "essential": true,
@@ -30,6 +45,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu come(s) apesar de não gostar muito?",
+      "speech": "O que você come apesar de não gostar muito?",
+      "answers": [
+        "O que você come apesar de não gostar muito?",
+        "O que tu comes apesar de não gostar muito?"
+      ],
       "en": "What do you eat even though you don't like it very much?",
       "example": "Eu como... apesar de não gostar muito.",
       "essential": true,
@@ -38,6 +58,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu acha(s) dos mercados da sua vizinhança? Qual é a melhor opção na sua | tua opinião?",
+      "speech": "O que você acha dos mercados da sua vizinhança? Qual é a melhor opção na sua opinião?",
+      "answers": [
+        "O que você acha dos mercados da sua vizinhança? Qual é a melhor opção na sua opinião?",
+        "O que tu achas dos mercados da sua vizinhança? Qual é a melhor opção na tua opinião?"
+      ],
       "en": "What do you think of the markets in your neighborhood? Which is the best option in your opinion?",
       "example": "Eu acho que os mercados da minha vizinhança são...",
       "essential": true,
@@ -126,6 +151,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Mercados e compras",
       "pt": "Ir ao mercado/à feira",
+      "speech": "Ir ao mercado feira",
+      "answers": [
+        "Ir ao mercado feira",
+        "Ir ao à feira"
+      ],
       "en": "to go to the market/fair",
       "example": "",
       "essential": false,
@@ -142,6 +172,12 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Mercados e compras",
       "pt": "Ler/salvar/compartilhar uma receita",
+      "speech": "Ler",
+      "answers": [
+        "Ler",
+        "salvar",
+        "compartilhar uma receita"
+      ],
       "en": "to read/save/share a recipe",
       "example": "",
       "essential": false,
@@ -206,6 +242,7 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Unidades de medida",
       "pt": "A colher de sopa/de sobremesa",
+      "speech": "A colher de sopa sobremesa",
       "en": "tablespoon/dessert spoon",
       "example": "",
       "essential": false,
@@ -534,6 +571,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Características dos alimentos",
       "pt": "Amarga(o)",
+      "speech": "Amarga",
+      "answers": [
+        "Amarga",
+        "Amargo"
+      ],
       "en": "bitter",
       "example": "",
       "essential": false,
@@ -542,6 +584,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Características dos alimentos",
       "pt": "Cozida(o)",
+      "speech": "Cozida",
+      "answers": [
+        "Cozida",
+        "Cozido"
+      ],
       "en": "cooked",
       "example": "",
       "essential": false,
@@ -566,6 +613,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Características dos alimentos",
       "pt": "Estragada(o)",
+      "speech": "Estragada",
+      "answers": [
+        "Estragada",
+        "Estragado"
+      ],
       "en": "spoiled",
       "example": "",
       "essential": false,
@@ -582,6 +634,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Características dos alimentos",
       "pt": "Gordurosa(o)",
+      "speech": "Gordurosa",
+      "answers": [
+        "Gordurosa",
+        "Gorduroso"
+      ],
       "en": "fatty / greasy",
       "example": "",
       "essential": false,
@@ -590,6 +647,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Características dos alimentos",
       "pt": "Madura(o)",
+      "speech": "Madura",
+      "answers": [
+        "Madura",
+        "Maduro"
+      ],
       "en": "ripe",
       "example": "",
       "essential": false,
@@ -678,6 +740,11 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Estilo de vida",
       "pt": "Almoçar cedo/tarde",
+      "speech": "Almoçar cedo",
+      "answers": [
+        "Almoçar cedo",
+        "Almoçar tarde"
+      ],
       "en": "to have lunch early/late",
       "example": "",
       "essential": false,
@@ -742,6 +809,7 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Estilo de vida",
       "pt": "(Não) Tomar/café da manhã",
+      "speech": "Tomar da manhã",
       "en": "(not) to have breakfast",
       "example": "",
       "essential": false,
@@ -750,6 +818,7 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Estilo de vida",
       "pt": "(Não) Tomar/comer pequeno almoço/mata-bicho",
+      "speech": "Tomar",
       "en": "(not) to have breakfast",
       "example": "",
       "essential": false,
@@ -766,6 +835,15 @@ window.FAST_PORTUGUESE_DATASETS["unit8"] = {
     {
       "category": "Estilo de vida",
       "pt": "Ser vegetariana(o)(e)/vegana(o)(e)",
+      "speech": "Ser vegetariana",
+      "answers": [
+        "Ser vegetariana",
+        "Ser vegana",
+        "Ser vegetariano",
+        "Ser vegano",
+        "Ser vegetariane",
+        "Ser vegane"
+      ],
       "en": "to be vegetarian/vegan",
       "example": "",
       "essential": false,

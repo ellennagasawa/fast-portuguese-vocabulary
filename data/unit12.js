@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Você | tu tem/tens proximidade com a música? Por quê?",
+      "speech": "Você tem proximidade com a música? Por quê?",
+      "answers": [
+        "Você tem proximidade com a música? Por quê?",
+        "Tu tens proximidade com a música? Por quê?"
+      ],
       "en": "Are you close to/connected with music? Why?",
       "example": "Eu...",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu sabe(s) sobre a capoeira?",
+      "speech": "O que você sabe sobre a capoeira?",
+      "answers": [
+        "O que você sabe sobre a capoeira?",
+        "O que tu sabes sobre a capoeira?"
+      ],
       "en": "What do you know about capoeira?",
       "example": "A capoeira foi desenvolvida...",
       "essential": true,
@@ -22,6 +32,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que datas comemorativas você | tu celebra(s)?",
+      "speech": "Que datas comemorativas você celebra?",
+      "answers": [
+        "Que datas comemorativas você celebra?",
+        "Que datas comemorativas tu celebras?"
+      ],
       "en": "Which commemorative dates/holidays do you celebrate?",
       "example": "Eu celebro...",
       "essential": true,
@@ -30,6 +45,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Você | tu conhece(s) eventos dos países de língua portuguesa cujas celebrações se assemilham a alguma nos Estados Unidos?",
+      "speech": "Você conhece eventos dos países de língua portuguesa cujas celebrações se assemilham a alguma nos Estados Unidos?",
+      "answers": [
+        "Você conhece eventos dos países de língua portuguesa cujas celebrações se assemilham a alguma nos Estados Unidos?",
+        "Tu conheces eventos dos países de língua portuguesa cujas celebrações se assemilham a alguma nos Estados Unidos?"
+      ],
       "en": "Do you know events in Portuguese-speaking countries whose celebrations resemble any in the United States?",
       "example": "Sim, eu conheço. São exemplos.../Não, eu não conheço, mas...",
       "essential": true,
@@ -38,6 +58,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como você | tu vê(s) sua | tua vida acadêmica daqui a um ano?",
+      "speech": "Como você vê sua vida acadêmica daqui a um ano?",
+      "answers": [
+        "Como você vê sua vida acadêmica daqui a um ano?",
+        "Como tu vês tua vida acadêmica daqui a um ano?"
+      ],
       "en": "How do you see your academic life one year from now?",
       "example": "Daqui a um ano, espero que/desejo que/tomara que...",
       "essential": true,
@@ -54,6 +79,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Eventos",
       "pt": "Celebrar/comemorar uma data",
+      "speech": "Celebrar uma data",
+      "answers": [
+        "Celebrar uma data",
+        "comemorar uma data"
+      ],
       "en": "to celebrate a date/occasion",
       "example": "",
       "essential": false,
@@ -150,6 +180,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Eventos",
       "pt": "Ser a(o)(ê) anfitriã(o)(e) de um evento",
+      "speech": "Ser a anfitriã de um evento",
+      "answers": [
+        "Ser a anfitriã de um evento",
+        "Ser o anfitrião de um evento",
+        "Ser ê anfitriãe de um evento"
+      ],
       "en": "to host an event",
       "example": "",
       "essential": false,
@@ -166,6 +202,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As características dos eventos",
       "pt": "Atrasada(o)",
+      "speech": "Atrasada",
+      "answers": [
+        "Atrasada",
+        "Atrasado"
+      ],
       "en": "late",
       "example": "",
       "essential": false,
@@ -182,6 +223,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As características dos eventos",
       "pt": "Cheia(o)",
+      "speech": "Cheia",
+      "answers": [
+        "Cheia",
+        "Cheio"
+      ],
       "en": "crowded/full",
       "example": "",
       "essential": false,
@@ -190,6 +236,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As características dos eventos",
       "pt": "Inclusiva(o)",
+      "speech": "Inclusiva",
+      "answers": [
+        "Inclusiva",
+        "Inclusivo"
+      ],
       "en": "inclusive",
       "example": "",
       "essential": false,
@@ -214,6 +265,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As características dos eventos",
       "pt": "Representativa(o)",
+      "speech": "Representativa",
+      "answers": [
+        "Representativa",
+        "Representativo"
+      ],
       "en": "representative",
       "example": "",
       "essential": false,
@@ -230,6 +286,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As características dos eventos",
       "pt": "Vazia(o)",
+      "speech": "Vazia",
+      "answers": [
+        "Vazia",
+        "Vazio"
+      ],
       "en": "empty",
       "example": "",
       "essential": false,
@@ -302,6 +363,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Instrumentos musicais",
       "pt": "A guitarra (elétrica)",
+      "speech": "A guitarra",
+      "answers": [
+        "A guitarra",
+        "A guitarra elétrica"
+      ],
       "en": "electric guitar",
       "example": "",
       "essential": false,
@@ -334,6 +400,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Instrumentos musicais",
       "pt": "A puíta/cuíca",
+      "speech": "A puíta",
+      "answers": [
+        "A puíta",
+        "A cuíca"
+      ],
       "en": "puíta/cuíca friction drum",
       "example": "",
       "essential": false,
@@ -446,6 +517,7 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As aptidões musicais",
       "pt": "Fazer aula(s) de...",
+      "speech": "Fazer aula de...",
       "en": "to take lessons in...",
       "example": "",
       "essential": false,
@@ -510,6 +582,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As aptidões musicais",
       "pt": "Ser um(a)(e) compositor(a)(e)",
+      "speech": "Ser um compositor",
+      "answers": [
+        "Ser um compositor",
+        "Ser uma compositora",
+        "Ser ume compositore"
+      ],
       "en": "to be a composer",
       "example": "",
       "essential": false,
@@ -518,6 +596,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As aptidões musicais",
       "pt": "Ser um(a)(e) cantor(a)(e)",
+      "speech": "Ser um cantor",
+      "answers": [
+        "Ser um cantor",
+        "Ser uma cantora",
+        "Ser ume cantore"
+      ],
       "en": "to be a singer",
       "example": "",
       "essential": false,
@@ -526,6 +610,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "As aptidões musicais",
       "pt": "Ser um(a)(e) produtor(a)(e)",
+      "speech": "Ser um produtor",
+      "answers": [
+        "Ser um produtor",
+        "Ser uma produtora",
+        "Ser ume produtore"
+      ],
       "en": "to be a producer",
       "example": "",
       "essential": false,
@@ -550,6 +640,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Expressões",
       "pt": "Calor/frio do cão",
+      "speech": "Calor do cão",
+      "answers": [
+        "Calor do cão",
+        "frio do cão"
+      ],
       "en": "extreme heat/cold",
       "example": "",
       "essential": false,
@@ -606,6 +701,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Expressões",
       "pt": "Ser/ter uma pedra no sapato",
+      "speech": "Ser uma pedra no sapato",
+      "answers": [
+        "Ser uma pedra no sapato",
+        "ter uma pedra no sapato"
+      ],
       "en": "to be/have a thorn in one's side",
       "example": "",
       "essential": false,
@@ -614,6 +714,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Expressões",
       "pt": "Ser toda(o)(e) ouvidos",
+      "speech": "Ser toda ouvidos",
+      "answers": [
+        "Ser toda ouvidos",
+        "Ser todo ouvidos",
+        "Ser tode ouvidos"
+      ],
       "en": "to be all ears",
       "example": "",
       "essential": false,
@@ -662,6 +768,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "A história e as celebrações",
       "pt": "Dançar/gingar/jogar capoeira",
+      "speech": "Dançar",
+      "answers": [
+        "Dançar",
+        "gingar",
+        "jogar capoeira"
+      ],
       "en": "to dance/sway/play capoeira",
       "example": "",
       "essential": false,
@@ -766,6 +878,11 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Colocações com ser, estar e ficar",
       "pt": "Estar de bom/mau humor",
+      "speech": "Estar de bom humor",
+      "answers": [
+        "Estar de bom humor",
+        "Estar de mau humor"
+      ],
       "en": "to be in a good/bad mood",
       "example": "",
       "essential": false,
@@ -798,6 +915,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Colocações com ser, estar e ficar",
       "pt": "Estar pronta(o)(e)",
+      "speech": "Estar pronta",
+      "answers": [
+        "Estar pronta",
+        "Estar pronto",
+        "Estar pronte"
+      ],
       "en": "to be ready",
       "example": "",
       "essential": false,
@@ -822,6 +945,12 @@ window.FAST_PORTUGUESE_DATASETS["unit12"] = {
     {
       "category": "Colocações com ser, estar e ficar",
       "pt": "Ser toda(o)(e) ouvidos",
+      "speech": "Ser toda ouvidos",
+      "answers": [
+        "Ser toda ouvidos",
+        "Ser todo ouvidos",
+        "Ser tode ouvidos"
+      ],
       "en": "to be all ears",
       "example": "",
       "essential": false,

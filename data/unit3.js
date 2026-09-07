@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como é sua | tua rotina?",
+      "speech": "Como é sua rotina?",
+      "answers": [
+        "Como é sua rotina?",
+        "Como é tua rotina?"
+      ],
       "en": "What is your routine like?",
       "example": "Minha rotina é..., Todos os dias eu..., Todo dia, eu...",
       "essential": true,
@@ -14,6 +19,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu faz(es) no seu | teu tempo livre?",
+      "speech": "O que você faz no seu tempo livre?",
+      "answers": [
+        "O que você faz no seu tempo livre?",
+        "O que tu fazes no teu tempo livre?",
+        "O que você fazes no seu tempo livre?"
+      ],
       "en": "What do you do in your free time?",
       "example": "No meu tempo livre eu...",
       "essential": true,
@@ -22,6 +33,11 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como é um dia na sua | tua vida na universidade?",
+      "speech": "Como é um dia na sua vida na universidade?",
+      "answers": [
+        "Como é um dia na sua vida na universidade?",
+        "Como é um dia na tua vida na universidade?"
+      ],
       "en": "What is a day in your university life like?",
       "example": "Em um dia comum, eu...",
       "essential": true,
@@ -30,6 +46,11 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que faz(es) depois das aulas?",
+      "speech": "O que faz depois das aulas?",
+      "answers": [
+        "O que faz depois das aulas?",
+        "O que fazes depois das aulas?"
+      ],
       "en": "What do you do after classes?",
       "example": "Depois das aulas, eu...",
       "essential": true,
@@ -174,6 +195,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Vida no campus",
       "pt": "Chegar cedo, atrasada(o)(e)",
+      "speech": "Chegar cedo, atrasada",
+      "answers": [
+        "Chegar cedo, atrasada",
+        "Chegar cedo, atrasado",
+        "Chegar cedo, atrasade"
+      ],
       "en": "to arrive early / late",
       "example": "",
       "essential": false,
@@ -302,6 +329,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Vida no campus",
       "pt": "Marcar uma hora com o(a)(e) professor(a)(e)",
+      "speech": "Marcar uma hora com o professor",
+      "answers": [
+        "Marcar uma hora com o professor",
+        "Marcar uma hora com a professora",
+        "Marcar uma hora com e professore"
+      ],
       "en": "to schedule a time with the professor",
       "example": "",
       "essential": false,
@@ -366,6 +399,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Vida no campus",
       "pt": "Ser tutor(a)(e)",
+      "speech": "Ser tutor",
+      "answers": [
+        "Ser tutor",
+        "Ser tutora",
+        "Ser tutore"
+      ],
       "en": "to be a tutor",
       "example": "",
       "essential": false,
@@ -382,6 +421,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Vida no campus",
       "pt": "Tomar café da manhã/pequeno-almoço/mata-bicho",
+      "speech": "Tomar café da manhã",
+      "answers": [
+        "Tomar café da manhã",
+        "Tomar café da pequeno-almoço",
+        "Tomar café da mata-bicho"
+      ],
       "en": "to have breakfast",
       "example": "",
       "essential": false,
@@ -486,6 +531,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Os horários",
       "pt": "Chegar pontualmente, atrasada(o)(e)",
+      "speech": "Chegar pontualmente, atrasada",
+      "answers": [
+        "Chegar pontualmente, atrasada",
+        "Chegar pontualmente, atrasado",
+        "Chegar pontualmente, atrasade"
+      ],
       "en": "to arrive on time / late",
       "example": "",
       "essential": false,
@@ -566,6 +617,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "O lazer e o autocuidado",
       "pt": "Conversar com um(a)(e) terapeuta",
+      "speech": "Conversar com um terapeuta",
+      "answers": [
+        "Conversar com um terapeuta",
+        "Conversar com uma terapeuta",
+        "Conversar com ume terapeuta"
+      ],
       "en": "to talk with a therapist",
       "example": "",
       "essential": false,
@@ -838,6 +895,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Pesquisa, investigação",
       "pt": "Ter um(a)(e) orientador(a)(e)",
+      "speech": "Ter um orientador",
+      "answers": [
+        "Ter um orientador",
+        "Ter uma orientadora",
+        "Ter ume orientadore"
+      ],
       "en": "to have an advisor",
       "example": "",
       "essential": false,
@@ -846,6 +909,12 @@ window.FAST_PORTUGUESE_DATASETS["unit3"] = {
     {
       "category": "Pesquisa, investigação",
       "pt": "Ser professor(a)(e)",
+      "speech": "Ser professor",
+      "answers": [
+        "Ser professor",
+        "Ser professora",
+        "Ser professore"
+      ],
       "en": "to be a professor",
       "example": "",
       "essential": false,

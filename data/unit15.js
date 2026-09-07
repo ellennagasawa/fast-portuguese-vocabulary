@@ -14,6 +14,11 @@ window.FAST_PORTUGUESE_DATASETS["unit15"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que é preconceito linguístico? Que atitudes você | tu passará(s) a evitar daqui em diante para evitá-lo?",
+      "speech": "O que é preconceito linguístico? Que atitudes você passará a evitar daqui em diante para evitá-lo?",
+      "answers": [
+        "O que é preconceito linguístico? Que atitudes você passará a evitar daqui em diante para evitá-lo?",
+        "O que é preconceito linguístico? Que atitudes tu passarás a evitar daqui em diante para evitá-lo?"
+      ],
       "en": "What is linguistic prejudice? What attitudes will you avoid from now on to prevent it?",
       "example": "Preconceito linguístico é... Eu passarei a evitar...",
       "essential": true,
@@ -30,6 +35,11 @@ window.FAST_PORTUGUESE_DATASETS["unit15"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que esperanças e expectativas você | tu tem/tens para um futuro mais inclusivo para as pessoas com deficiência?",
+      "speech": "Que esperanças e expectativas você tem para um futuro mais inclusivo para as pessoas com deficiência?",
+      "answers": [
+        "Que esperanças e expectativas você tem para um futuro mais inclusivo para as pessoas com deficiência?",
+        "Que esperanças e expectativas tu tens para um futuro mais inclusivo para as pessoas com deficiência?"
+      ],
       "en": "What hopes and expectations do you have for a more inclusive future for people with disabilities?",
       "example": "Quando as pessoas com deficiência forem...",
       "essential": true,
@@ -398,6 +408,7 @@ window.FAST_PORTUGUESE_DATASETS["unit15"] = {
     {
       "category": "A acessibilidade",
       "pt": "O(s) movimento(s) negro(s)",
+      "speech": "O movimento negro",
       "en": "Black movement(s)",
       "example": "",
       "essential": false,
@@ -510,6 +521,12 @@ window.FAST_PORTUGUESE_DATASETS["unit15"] = {
     {
       "category": "As línguas gestuais da lusofonia",
       "pt": "A(o)(ê) intérprete",
+      "speech": "A intérprete",
+      "answers": [
+        "A intérprete",
+        "O intérprete",
+        "Ê intérprete"
+      ],
       "en": "interpreter",
       "example": "",
       "essential": false,
@@ -718,6 +735,14 @@ window.FAST_PORTUGUESE_DATASETS["unit15"] = {
     {
       "category": "A justiça social e a inclusão",
       "pt": "Ter medo/fé/esperança/razão/cuidado",
+      "speech": "Ter medo",
+      "answers": [
+        "Ter medo",
+        "Ter fé",
+        "Ter esperança",
+        "Ter razão",
+        "Ter cuidado"
+      ],
       "en": "to have fear/faith/hope/reason/care",
       "example": "",
       "essential": false,

@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Se você | tu não tivesse(s) escolhido esta universidade, onde estaria?",
+      "speech": "Se você não tivesse escolhido esta universidade, onde estaria?",
+      "answers": [
+        "Se você não tivesse escolhido esta universidade, onde estaria?",
+        "Se tu não tivesses escolhido esta universidade, onde estaria?"
+      ],
       "en": "If you had not chosen this university, where would you be?",
       "example": "Se não tivesse escolhido esta universidade, eu estaria na/no/em...",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Quais são os desafios da sua | tua profissão?",
+      "speech": "Quais são os desafios da sua profissão?",
+      "answers": [
+        "Quais são os desafios da sua profissão?",
+        "Quais são os desafios da tua profissão?"
+      ],
       "en": "What are the challenges of your profession?",
       "example": "Os maiores desafios da minha profissão são...",
       "essential": true,
@@ -22,6 +32,11 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como você | tu fica(s) antes de uma entrevista de trabalho?",
+      "speech": "Como você fica antes de uma entrevista de trabalho?",
+      "answers": [
+        "Como você fica antes de uma entrevista de trabalho?",
+        "Como tu ficas antes de uma entrevista de trabalho?"
+      ],
       "en": "How do you feel before a job interview?",
       "example": "Antes de uma entrevista de trabalho, eu fico...",
       "essential": true,
@@ -30,6 +45,11 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que é preciso para se destacar na sua | tua área de especialização?",
+      "speech": "O que é preciso para se destacar na sua área de especialização?",
+      "answers": [
+        "O que é preciso para se destacar na sua área de especialização?",
+        "O que é preciso para se destacar na tua área de especialização?"
+      ],
       "en": "What is needed to stand out in your field of specialization?",
       "example": "Para se destacar na minha área de especialização é preciso...",
       "essential": true,
@@ -38,6 +58,7 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Caso pudesse(s) fazer outro curso, qual faria(s)?",
+      "speech": "Caso pudesse fazer outro curso, qual faria?",
       "en": "If you could take another course/degree, which would you choose?",
       "example": "Se eu pudesse fazer outro curso, faria...",
       "essential": true,
@@ -46,6 +67,11 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que direitos trabalhistas você | tu conhece(s)?",
+      "speech": "Que direitos trabalhistas você conhece?",
+      "answers": [
+        "Que direitos trabalhistas você conhece?",
+        "Que direitos trabalhistas tu conheces?"
+      ],
       "en": "What labor rights do you know?",
       "example": "Eu conheço...",
       "essential": true,
@@ -62,6 +88,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Direitos trabalhistas",
       "pt": "O(a)(ê) colaborador(a)(e)",
+      "speech": "O colaborador",
+      "answers": [
+        "O colaborador",
+        "A colaboradora",
+        "Ê colaboradore"
+      ],
       "en": "employee/collaborator",
       "example": "",
       "essential": false,
@@ -86,6 +118,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Direitos trabalhistas",
       "pt": "A(o)(ê) funcionária(o)(e)",
+      "speech": "A funcionária",
+      "answers": [
+        "A funcionária",
+        "O funcionário",
+        "Ê funcionárie"
+      ],
       "en": "employee",
       "example": "",
       "essential": false,
@@ -478,6 +516,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Mercado de trabalho",
       "pt": "Ser contratada(o)(e)",
+      "speech": "Ser contratada",
+      "answers": [
+        "Ser contratada",
+        "Ser contratado",
+        "Ser contratade"
+      ],
       "en": "to be hired",
       "example": "",
       "essential": false,
@@ -486,6 +530,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Mercado de trabalho",
       "pt": "Ser um(a)(e) candidato(a)(e)",
+      "speech": "Ser um candidato",
+      "answers": [
+        "Ser um candidato",
+        "Ser uma candidata",
+        "Ser ume candidate"
+      ],
       "en": "to be a candidate/applicant",
       "example": "",
       "essential": false,
@@ -502,6 +552,13 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Mercado de trabalho",
       "pt": "Trabalhar em uma fábrica/loja/universidade/companhia...",
+      "speech": "Trabalhar em uma fábrica",
+      "answers": [
+        "Trabalhar em uma fábrica",
+        "Trabalhar em uma loja",
+        "Trabalhar em uma universidade",
+        "Trabalhar em uma companhia..."
+      ],
       "en": "to work in a factory/store/university/company...",
       "example": "",
       "essential": false,
@@ -518,6 +575,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Agricultor(a)(e)",
+      "speech": "Agricultor",
+      "answers": [
+        "Agricultor",
+        "Agricultora",
+        "Agricultore"
+      ],
       "en": "farmer",
       "example": "",
       "essential": false,
@@ -542,6 +605,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Apresentador(a)(e)",
+      "speech": "Apresentador",
+      "answers": [
+        "Apresentador",
+        "Apresentadora",
+        "Apresentadore"
+      ],
       "en": "host/presenter",
       "example": "",
       "essential": false,
@@ -558,6 +627,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Bombeira(o)(e)",
+      "speech": "Bombeira",
+      "answers": [
+        "Bombeira",
+        "Bombeiro",
+        "Bombeire"
+      ],
       "en": "firefighter",
       "example": "",
       "essential": false,
@@ -574,6 +649,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Carteira(o)(e)",
+      "speech": "Carteira",
+      "answers": [
+        "Carteira",
+        "Carteiro",
+        "Carteire"
+      ],
       "en": "mail carrier",
       "example": "",
       "essential": false,
@@ -582,6 +663,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Cozinheira(o)(e)",
+      "speech": "Cozinheira",
+      "answers": [
+        "Cozinheira",
+        "Cozinheiro",
+        "Cozinheire"
+      ],
       "en": "cook",
       "example": "",
       "essential": false,
@@ -598,6 +685,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Enfermeira(o)(e)",
+      "speech": "Enfermeira",
+      "answers": [
+        "Enfermeira",
+        "Enfermeiro",
+        "Enfermeire"
+      ],
       "en": "nurse",
       "example": "",
       "essential": false,
@@ -606,6 +699,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Escritor(a)(e)",
+      "speech": "Escritor",
+      "answers": [
+        "Escritor",
+        "Escritora",
+        "Escritore"
+      ],
       "en": "writer",
       "example": "",
       "essential": false,
@@ -614,6 +713,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Faxineira(o)(e)",
+      "speech": "Faxineira",
+      "answers": [
+        "Faxineira",
+        "Faxineiro",
+        "Faxineire"
+      ],
       "en": "cleaner",
       "example": "",
       "essential": false,
@@ -622,6 +727,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Garçonete/garçom/garçone",
+      "speech": "Garçonete",
+      "answers": [
+        "Garçonete",
+        "garçom",
+        "garçone"
+      ],
       "en": "server/waiter",
       "example": "",
       "essential": false,
@@ -638,6 +749,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Instrutor(a)(e)",
+      "speech": "Instrutor",
+      "answers": [
+        "Instrutor",
+        "Instrutora",
+        "Instrutore"
+      ],
       "en": "instructor",
       "example": "",
       "essential": false,
@@ -646,6 +763,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Jardineira(o)(e)",
+      "speech": "Jardineira",
+      "answers": [
+        "Jardineira",
+        "Jardineiro",
+        "Jardineire"
+      ],
       "en": "gardener",
       "example": "",
       "essential": false,
@@ -654,6 +777,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Mecânica(o)(e)",
+      "speech": "Mecânica",
+      "answers": [
+        "Mecânica",
+        "Mecânico",
+        "Mecânice"
+      ],
       "en": "mechanic",
       "example": "",
       "essential": false,
@@ -678,6 +807,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Professor(a)(e)",
+      "speech": "Professor",
+      "answers": [
+        "Professor",
+        "Professora",
+        "Professore"
+      ],
       "en": "teacher/professor",
       "example": "",
       "essential": false,
@@ -686,6 +821,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Secretária(o)(e)",
+      "speech": "Secretária",
+      "answers": [
+        "Secretária",
+        "Secretário",
+        "Secretárie"
+      ],
       "en": "secretary/administrative assistant",
       "example": "",
       "essential": false,
@@ -702,6 +843,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Profissões",
       "pt": "Vendedor(a)(e)",
+      "speech": "Vendedor",
+      "answers": [
+        "Vendedor",
+        "Vendedora",
+        "Vendedore"
+      ],
       "en": "salesperson",
       "example": "",
       "essential": false,
@@ -750,6 +897,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Características pessoais para a carreira",
       "pt": "Ser assertiva(o)(e)",
+      "speech": "Ser assertiva",
+      "answers": [
+        "Ser assertiva",
+        "Ser assertivo",
+        "Ser assertive"
+      ],
       "en": "to be assertive",
       "example": "",
       "essential": false,
@@ -766,6 +919,12 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Características pessoais para a carreira",
       "pt": "Ser ética(o)(e)",
+      "speech": "Ser ética",
+      "answers": [
+        "Ser ética",
+        "Ser ético",
+        "Ser étice"
+      ],
       "en": "to be ethical",
       "example": "",
       "essential": false,
@@ -774,6 +933,18 @@ window.FAST_PORTUGUESE_DATASETS["unit10"] = {
     {
       "category": "Características pessoais para a carreira",
       "pt": "Ser um(a)(e) bom/boa/boe líder",
+      "speech": "Ser um bom",
+      "answers": [
+        "Ser um bom",
+        "Ser um boa",
+        "Ser um boe líder",
+        "Ser uma bom",
+        "Ser uma boa",
+        "Ser uma boe líder",
+        "Ser ume bom",
+        "Ser ume boa",
+        "Ser ume boe líder"
+      ],
       "en": "to be a good leader",
       "example": "",
       "essential": false,

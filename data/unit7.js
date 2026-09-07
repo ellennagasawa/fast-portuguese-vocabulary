@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como você | tu define(s) família?",
+      "speech": "Como você define família?",
+      "answers": [
+        "Como você define família?",
+        "Como tu defines família?"
+      ],
       "en": "How do you define family?",
       "example": "Para mim/na minha opinião, família é...",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como é sua | tua família?",
+      "speech": "Como é sua família?",
+      "answers": [
+        "Como é sua família?",
+        "Como é tua família?"
+      ],
       "en": "What is your family like?",
       "example": "Minha família é...",
       "essential": true,
@@ -22,6 +32,7 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Já pesquisou/pesquisaste sobre sua | tua ancestralidade?",
+      "speech": "Já pesquisou sobre sua ancestralidade?",
       "en": "Have you researched your ancestry?",
       "example": "Eu já pesquisei e descobri que... Eu ainda não pesquisei, mas quero saber...",
       "essential": true,
@@ -38,6 +49,11 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que desafios enfrentam as comunidades migrantes perto de você | ti?",
+      "speech": "Que desafios enfrentam as comunidades migrantes perto de você",
+      "answers": [
+        "Que desafios enfrentam as comunidades migrantes perto de você",
+        "Que desafios enfrentam as comunidades migrantes perto de ti?"
+      ],
       "en": "What challenges do migrant communities near you face?",
       "example": "As comunidades perto de mim enfrentam desafios como...",
       "essential": true,
@@ -46,6 +62,11 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Comente cinco fatos sobre sua | tua cronologia.",
+      "speech": "Comente cinco fatos sobre sua cronologia.",
+      "answers": [
+        "Comente cinco fatos sobre sua cronologia.",
+        "Comente cinco fatos sobre tua cronologia."
+      ],
       "en": "Comment on five facts in your timeline.",
       "example": "Em __, eu...",
       "essential": true,
@@ -62,6 +83,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "Os(as)(es) parentes",
+      "speech": "Os parentes",
+      "answers": [
+        "Os parentes",
+        "As parentes",
+        "Es parentes"
+      ],
       "en": "relatives",
       "example": "",
       "essential": false,
@@ -102,6 +129,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) neta(o)(e)",
+      "speech": "A neta",
+      "answers": [
+        "A neta",
+        "O neto",
+        "Ê nete"
+      ],
       "en": "grandchild",
       "example": "",
       "essential": false,
@@ -118,6 +151,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "O(a)(ê) caçula",
+      "speech": "O caçula",
+      "answers": [
+        "O caçula",
+        "A caçula",
+        "Ê caçula"
+      ],
       "en": "youngest child/sibling",
       "example": "",
       "essential": false,
@@ -150,6 +189,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) irmã(o)(e)",
+      "speech": "A irmã",
+      "answers": [
+        "A irmã",
+        "O irmão",
+        "Ê irmãe"
+      ],
       "en": "sibling",
       "example": "",
       "essential": false,
@@ -158,6 +203,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) tia(o)(e)",
+      "speech": "A tia",
+      "answers": [
+        "A tia",
+        "O tio",
+        "Ê tie"
+      ],
       "en": "aunt/uncle",
       "example": "",
       "essential": false,
@@ -166,6 +217,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) sobrinha(o)(e)",
+      "speech": "A sobrinha",
+      "answers": [
+        "A sobrinha",
+        "O sobrinho",
+        "Ê sobrinhe"
+      ],
       "en": "niece/nephew",
       "example": "",
       "essential": false,
@@ -174,6 +231,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) prima(o)(e)",
+      "speech": "A prima",
+      "answers": [
+        "A prima",
+        "O primo",
+        "Ê prime"
+      ],
       "en": "cousin",
       "example": "",
       "essential": false,
@@ -182,6 +245,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) cunhada(o)(e)",
+      "speech": "A cunhada",
+      "answers": [
+        "A cunhada",
+        "O cunhado",
+        "Ê cunhade"
+      ],
       "en": "sister-/brother-in-law",
       "example": "",
       "essential": false,
@@ -214,6 +283,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) enteada(o)(e)",
+      "speech": "A enteada",
+      "answers": [
+        "A enteada",
+        "O enteado",
+        "Ê enteade"
+      ],
       "en": "stepchild",
       "example": "",
       "essential": false,
@@ -222,6 +297,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) meia(o)(e)-irmã(o)(e)",
+      "speech": "A meia-irmã",
+      "answers": [
+        "A meia-irmã",
+        "O meio-irmão",
+        "Ê meie-irmãe"
+      ],
       "en": "half-sibling",
       "example": "",
       "essential": false,
@@ -246,6 +327,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) parceira(o)(e)",
+      "speech": "A parceira",
+      "answers": [
+        "A parceira",
+        "O parceiro",
+        "Ê parceire"
+      ],
       "en": "partner",
       "example": "",
       "essential": false,
@@ -254,6 +341,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A família",
       "pt": "A(o)(ê) companheira(o)(e)",
+      "speech": "A companheira",
+      "answers": [
+        "A companheira",
+        "O companheiro",
+        "Ê companheire"
+      ],
       "en": "partner / companion",
       "example": "",
       "essential": false,
@@ -326,6 +419,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "A ancestralidade e a migração",
       "pt": "Carregar o nome de um(a)(e) membro da família",
+      "speech": "Carregar o nome de um membro da família",
+      "answers": [
+        "Carregar o nome de um membro da família",
+        "Carregar o nome de uma membro da família",
+        "Carregar o nome de ume membro da família"
+      ],
       "en": "to carry a family member's name",
       "example": "",
       "essential": false,
@@ -398,6 +497,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Relacionamentos",
       "pt": "Estar solteira(o)(e)",
+      "speech": "Estar solteira",
+      "answers": [
+        "Estar solteira",
+        "Estar solteiro",
+        "Estar solteire"
+      ],
       "en": "to be single",
       "example": "",
       "essential": false,
@@ -430,6 +535,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Relacionamentos",
       "pt": "Estar comprometida(o)(e)",
+      "speech": "Estar comprometida",
+      "answers": [
+        "Estar comprometida",
+        "Estar comprometido",
+        "Estar comprometide"
+      ],
       "en": "to be committed",
       "example": "",
       "essential": false,
@@ -438,6 +549,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Relacionamentos",
       "pt": "Estar noiva(o)(e)",
+      "speech": "Estar noiva",
+      "answers": [
+        "Estar noiva",
+        "Estar noivo",
+        "Estar noive"
+      ],
       "en": "to be engaged",
       "example": "",
       "essential": false,
@@ -454,6 +571,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Relacionamentos",
       "pt": "Ser casada(o)(e)",
+      "speech": "Ser casada",
+      "answers": [
+        "Ser casada",
+        "Ser casado",
+        "Ser casade"
+      ],
       "en": "to be married",
       "example": "",
       "essential": false,
@@ -462,6 +585,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Relacionamentos",
       "pt": "Ser viúva(o)(e)",
+      "speech": "Ser viúva",
+      "answers": [
+        "Ser viúva",
+        "Ser viúvo",
+        "Ser viúve"
+      ],
       "en": "to be widowed",
       "example": "",
       "essential": false,
@@ -470,6 +599,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Relacionamentos",
       "pt": "Ser divorciada(o)(e)",
+      "speech": "Ser divorciada",
+      "answers": [
+        "Ser divorciada",
+        "Ser divorciado",
+        "Ser divorciade"
+      ],
       "en": "to be divorced",
       "example": "",
       "essential": false,
@@ -518,6 +653,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Optar por não ter filhas(os)(es)",
+      "speech": "Optar por não ter filhas",
+      "answers": [
+        "Optar por não ter filhas",
+        "Optar por não ter filhasos",
+        "Optar por não ter filhases"
+      ],
       "en": "to choose not to have children",
       "example": "",
       "essential": false,
@@ -526,6 +667,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "(Não) querer ter filhas(os)(es)",
+      "speech": "querer ter filhas",
+      "answers": [
+        "querer ter filhas",
+        "querer ter filhasos",
+        "querer ter filhases"
+      ],
       "en": "(not) to want to have children",
       "example": "",
       "essential": false,
@@ -566,6 +713,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Morar sozinha(o)(e)",
+      "speech": "Morar sozinha",
+      "answers": [
+        "Morar sozinha",
+        "Morar sozinho",
+        "Morar sozinhe"
+      ],
       "en": "to live alone",
       "example": "",
       "essential": false,
@@ -574,6 +727,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Morar com amigas(os)(ues)",
+      "speech": "Morar com amigas",
+      "answers": [
+        "Morar com amigas",
+        "Morar com amigasos",
+        "Morar com amigasues"
+      ],
       "en": "to live with friends",
       "example": "",
       "essential": false,
@@ -582,6 +741,13 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Ser/ter mãe/pai/nãe-solo",
+      "speech": "Ser",
+      "answers": [
+        "Ser",
+        "ter mãe",
+        "pai",
+        "nãe-solo"
+      ],
       "en": "to be/have a single mother/father/parent",
       "example": "",
       "essential": false,
@@ -590,6 +756,13 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Ser/ter avó/avô/avê-solo",
+      "speech": "Ser",
+      "answers": [
+        "Ser",
+        "ter avó",
+        "avô",
+        "avê-solo"
+      ],
       "en": "to be/have a solo grandmother/grandfather/grandparent",
       "example": "",
       "essential": false,
@@ -598,6 +771,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Ser órfã(o)(e)",
+      "speech": "Ser órfã",
+      "answers": [
+        "Ser órfã",
+        "Ser órfão",
+        "Ser órfãe"
+      ],
       "en": "to be an orphan",
       "example": "",
       "essential": false,
@@ -606,6 +785,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Construção familiar",
       "pt": "Ser filha(o)(e) única(o)(que)",
+      "speech": "Ser filha única",
+      "answers": [
+        "Ser filha única",
+        "Ser filho único",
+        "Ser filhe únique"
+      ],
       "en": "to be an only child",
       "example": "",
       "essential": false,
@@ -670,6 +855,12 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Convivência familiar",
       "pt": "Passar um tempo juntas(os)(es)",
+      "speech": "Passar um tempo juntas",
+      "answers": [
+        "Passar um tempo juntas",
+        "Passar um tempo juntasos",
+        "Passar um tempo juntases"
+      ],
       "en": "to spend time together",
       "example": "",
       "essential": false,
@@ -718,6 +909,11 @@ window.FAST_PORTUGUESE_DATASETS["unit7"] = {
     {
       "category": "Convivência familiar",
       "pt": "Comunicar-se bem/mal",
+      "speech": "Comunicar-se bem",
+      "answers": [
+        "Comunicar-se bem",
+        "Comunicar-se mal"
+      ],
       "en": "to communicate well/poorly",
       "example": "",
       "essential": false,

@@ -34,7 +34,7 @@ const practiceTab = document.getElementById("practiceTab");
 const scopeControl = document.getElementById("scopeControl");
 const directionControl = document.getElementById("directionControl");
 
-const practiceUnitNotice = document.getElementById("practiceUnitNotice");
+const practiceUnitKicker = document.getElementById("practiceUnitKicker");
 const practiceHome = document.getElementById("practiceHome");
 const exerciseArea = document.getElementById("exerciseArea");
 const quizResult = document.getElementById("quizResult");
@@ -183,11 +183,11 @@ function setMode(mode) {
 }
 
 function updatePracticeAvailability() {
-  const available = selectedDataset().unit === 1;
-  practiceUnitNotice.hidden = available;
-  practiceHome.hidden = !available;
+  const data = selectedDataset();
+  practiceHome.hidden = false;
   exerciseArea.hidden = true;
   quizResult.hidden = true;
+  if (practiceUnitKicker) practiceUnitKicker.textContent = `Unidade ${data.unit}`;
 }
 
 function resetPracticeHome() {
@@ -204,8 +204,8 @@ function resetPracticeHome() {
   fillAnswer.value = "";
 }
 
-function unit1PracticeCards() {
-  const data = DATASETS.unit1;
+function practiceCards() {
+  const data = selectedDataset();
   if (!data || !Array.isArray(data.cards)) return [];
 
   const category = categorySelect.value;
@@ -227,8 +227,16 @@ function normalizedAnswer(value) {
 
 function validWrittenAnswers(card) {
   const candidates = Array.isArray(card.answers) && card.answers.length
-    ? card.answers
-    : [card.pt];
+    ? [...card.answers]
+    : [card.speech || card.pt];
+
+  const articlePattern = /^(a|o|as|os|um|uma|uns|umas)\s+/i;
+  if ((card.pt || "").length <= 60 && !/[?!]/.test(card.pt || "")) {
+    [...candidates].forEach(candidate => {
+      const withoutArticle = String(candidate).replace(articlePattern, "");
+      if (withoutArticle !== candidate) candidates.push(withoutArticle);
+    });
+  }
 
   return [...new Set(candidates.map(normalizedAnswer).filter(Boolean))];
 }
@@ -242,12 +250,10 @@ function answerMatches(answer, validAnswers) {
 }
 
 function fillEligibleCards(cards) {
-  return cards.filter(card =>
-    card.pt.length <= 34 &&
-    !/[\/()]/.test(card.pt) &&
-    !card.pt.includes("(o)") &&
-    !card.pt.includes("(a)")
-  );
+  return cards.filter(card => {
+    const spoken = card.speech || card.pt || "";
+    return card.pt && card.en && spoken && spoken.length <= 90;
+  });
 }
 
 function randomItem(items) {
@@ -316,7 +322,7 @@ function makeQuestion(type, cards) {
 }
 
 function startPractice(type) {
-  const cards = unit1PracticeCards();
+  const cards = practiceCards();
 
   if (!cards.length) {
     exerciseArea.hidden = false;
@@ -759,13 +765,6 @@ document.querySelectorAll("[data-practice]").forEach(button => {
 document.getElementById("backToPracticeBtn").addEventListener("click", () => {
   if (speechSupported) window.speechSynthesis.cancel();
   resetPracticeHome();
-  updatePracticeAvailability();
-});
-
-document.getElementById("goUnit1Btn").addEventListener("click", () => {
-  unitSelect.value = "unit1";
-  populateCategories();
-  buildDeck();
   updatePracticeAvailability();
 });
 

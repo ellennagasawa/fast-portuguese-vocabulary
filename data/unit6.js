@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Com que personalidade lusófona você | tu mais se identifica(s)?",
+      "speech": "Com que personalidade lusófona você mais se identifica?",
+      "answers": [
+        "Com que personalidade lusófona você mais se identifica?",
+        "Com que personalidade lusófona tu mais se identificas?"
+      ],
       "en": "Which Lusophone personality do you identify with most?",
       "example": "Eu me identifico com...",
       "essential": true,
@@ -22,6 +27,11 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que modalidades de governo você | tu conhece(s)?",
+      "speech": "Que modalidades de governo você conhece?",
+      "answers": [
+        "Que modalidades de governo você conhece?",
+        "Que modalidades de governo tu conheces?"
+      ],
       "en": "What forms of government do you know?",
       "example": "Eu conheço...",
       "essential": true,
@@ -38,6 +48,11 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Há quanto tempo você | tu estuda(s) português?",
+      "speech": "Há quanto tempo você estuda português?",
+      "answers": [
+        "Há quanto tempo você estuda português?",
+        "Há quanto tempo tu estudas português?"
+      ],
       "en": "How long have you been studying Portuguese?",
       "example": "Eu estudo português tem/há/faz...",
       "essential": true,
@@ -118,6 +133,12 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ter o cabelo curto/longo/médio",
+      "speech": "Ter o cabelo curto",
+      "answers": [
+        "Ter o cabelo curto",
+        "Ter o cabelo longo",
+        "Ter o cabelo médio"
+      ],
       "en": "to have short/long/medium-length hair",
       "example": "",
       "essential": false,
@@ -126,6 +147,12 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser calva(o)(e)",
+      "speech": "Ser calva",
+      "answers": [
+        "Ser calva",
+        "Ser calvo",
+        "Ser calve"
+      ],
       "en": "to be bald",
       "example": "",
       "essential": false,
@@ -134,6 +161,14 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ter o cabelo castanho/preto/ruivo/loiro/azul",
+      "speech": "Ter o cabelo castanho",
+      "answers": [
+        "Ter o cabelo castanho",
+        "Ter o cabelo preto",
+        "Ter o cabelo ruivo",
+        "Ter o cabelo loiro",
+        "Ter o cabelo azul"
+      ],
       "en": "to have brown/black/red/blond/blue hair",
       "example": "",
       "essential": false,
@@ -142,6 +177,13 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ter o cabelo crespo/cacheado/ondulado/liso",
+      "speech": "Ter o cabelo crespo",
+      "answers": [
+        "Ter o cabelo crespo",
+        "Ter o cabelo cacheado",
+        "Ter o cabelo ondulado",
+        "Ter o cabelo liso"
+      ],
       "en": "to have kinky/curly/wavy/straight hair",
       "example": "",
       "essential": false,
@@ -150,6 +192,14 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ter os olhos castanhos/pretos/cor de mel/azuis/verdes",
+      "speech": "Ter os olhos castanhos",
+      "answers": [
+        "Ter os olhos castanhos",
+        "Ter os olhos pretos",
+        "Ter os olhos cor de mel",
+        "Ter os olhos azuis",
+        "Ter os olhos verdes"
+      ],
       "en": "to have brown/black/hazel/blue/green eyes",
       "example": "",
       "essential": false,
@@ -158,6 +208,19 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser negra(o)(e)/parda(o)(e)/afrodescendente/branca(o)(que)",
+      "speech": "Ser negra",
+      "answers": [
+        "Ser negra",
+        "Ser parda",
+        "Ser afrodescendente",
+        "Ser branca",
+        "Ser negro",
+        "Ser pardo",
+        "Ser branco",
+        "Ser negre",
+        "Ser parde",
+        "Ser branque"
+      ],
       "en": "to be Black/brown/Afro-descendant/white",
       "example": "",
       "essential": false,
@@ -166,6 +229,16 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser alta(o)(e)/baixa(o)(e)/de estatura mediana",
+      "speech": "Ser alta",
+      "answers": [
+        "Ser alta",
+        "Ser baixa",
+        "Ser de estatura mediana",
+        "Ser alto",
+        "Ser baixo",
+        "Ser alte",
+        "Ser baixe"
+      ],
       "en": "to be tall/short/of medium height",
       "example": "",
       "essential": false,
@@ -174,6 +247,15 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser gorda(o)/de peso mediano/magra(o)(e)",
+      "speech": "Ser gorda",
+      "answers": [
+        "Ser gorda",
+        "Ser de peso mediano",
+        "Ser magra",
+        "Ser gordo",
+        "Ser magro",
+        "Ser magre"
+      ],
       "en": "to be fat/of medium weight/thin",
       "example": "",
       "essential": false,
@@ -182,6 +264,7 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser uma pessoa com deficiência/sem deficiência",
+      "speech": "Ser uma pessoa com deficiência",
       "en": "to be a person with/without a disability",
       "example": "",
       "essential": false,
@@ -198,6 +281,18 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser bebê/criança/adolescente/adulta(o)(e)/idosa(o)(e)",
+      "speech": "Ser bebê",
+      "answers": [
+        "Ser bebê",
+        "Ser criança",
+        "Ser adolescente",
+        "Ser adulta",
+        "Ser idosa",
+        "Ser adulto",
+        "Ser idoso",
+        "Ser adulte",
+        "Ser idose"
+      ],
       "en": "to be a baby/child/adolescent/adult/elderly person",
       "example": "",
       "essential": false,
@@ -214,6 +309,15 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Características físicas",
       "pt": "Ser atlética(o)(que)/musculosa(o)(e)",
+      "speech": "Ser atlética",
+      "answers": [
+        "Ser atlética",
+        "Ser musculosa",
+        "Ser atlético",
+        "Ser musculoso",
+        "Ser atlétique",
+        "Ser musculose"
+      ],
       "en": "to be athletic/muscular",
       "example": "",
       "essential": false,
@@ -422,6 +526,12 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Carreiras e mídia",
       "pt": "A/o/ê culinarista",
+      "speech": "A culinarista",
+      "answers": [
+        "A culinarista",
+        "ê culinarista",
+        "o culinarista"
+      ],
       "en": "culinary professional",
       "example": "",
       "essential": false,
@@ -558,6 +668,7 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Política",
       "pt": "A cidadã/o cidadão/ê cidadãe",
+      "speech": "A cidadã",
       "en": "citizen",
       "example": "",
       "essential": false,
@@ -590,6 +701,11 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Engajamento social",
       "pt": "Ser a favor/contra",
+      "speech": "Ser a favor",
+      "answers": [
+        "Ser a favor",
+        "Ser a contra"
+      ],
       "en": "to be in favor of/against",
       "example": "",
       "essential": false,
@@ -606,6 +722,12 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Engajamento social",
       "pt": "Ser conservador(a)(e)",
+      "speech": "Ser conservador",
+      "answers": [
+        "Ser conservador",
+        "Ser conservadora",
+        "Ser conservadore"
+      ],
       "en": "to be conservative",
       "example": "",
       "essential": false,
@@ -630,6 +752,12 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Engajamento social",
       "pt": "Votar em um(a)(e) candidato(a)(e)",
+      "speech": "Votar em um candidato",
+      "answers": [
+        "Votar em um candidato",
+        "Votar em uma candidata",
+        "Votar em ume candidate"
+      ],
       "en": "to vote for a candidate",
       "example": "",
       "essential": false,
@@ -638,6 +766,11 @@ window.FAST_PORTUGUESE_DATASETS["unit6"] = {
     {
       "category": "Engajamento social",
       "pt": "Ser a maioria/minoria",
+      "speech": "Ser a maioria",
+      "answers": [
+        "Ser a maioria",
+        "Ser a minoria"
+      ],
       "en": "to be the majority/minority",
       "example": "",
       "essential": false,

@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que esportes você | tu pratica(s)? Que equipamentos são necessários para a prática?",
+      "speech": "Que esportes você pratica? Que equipamentos são necessários para a prática?",
+      "answers": [
+        "Que esportes você pratica? Que equipamentos são necessários para a prática?",
+        "Que esportes tu praticas? Que equipamentos são necessários para a prática?"
+      ],
       "en": "What sports do you practice? What equipment is necessary?",
       "example": "Eu pratico... Para isso, uso.../Eu não pratico esportes.",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que é capacitismo? Que práticas anticapacitistas você | tu adota(s) no cotidiano?",
+      "speech": "O que é capacitismo? Que práticas anticapacitistas você adota no cotidiano?",
+      "answers": [
+        "O que é capacitismo? Que práticas anticapacitistas você adota no cotidiano?",
+        "O que é capacitismo? Que práticas anticapacitistas tu adotas no cotidiano?"
+      ],
       "en": "What is ableism? What anti-ableist practices do you adopt in daily life?",
       "example": "Capacitismo é... No dia a dia, eu...",
       "essential": true,
@@ -22,6 +32,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Quando e onde foram realizadas as últimas competições esportivas das quais sua | tua universidade participou?",
+      "speech": "Quando e onde foram realizadas as últimas competições esportivas das quais sua universidade participou?",
+      "answers": [
+        "Quando e onde foram realizadas as últimas competições esportivas das quais sua universidade participou?",
+        "Quando e onde foram realizadas as últimas competições esportivas das quais tua universidade participou?"
+      ],
       "en": "When and where were the latest sports competitions in which your university participated held?",
       "example": "Capacitismo é... No dia a dia, eu...",
       "essential": true,
@@ -30,6 +45,12 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que esportes são mais praticados pela(s)(o)(es) atletas paralímpicas(os)(ques) dos Estados Unidos?",
+      "speech": "Que esportes são mais praticados pela atletas paralímpicas dos Estados Unidos?",
+      "answers": [
+        "Que esportes são mais praticados pela atletas paralímpicas dos Estados Unidos?",
+        "Que esportes são mais praticados pela atletas paralímpicasos dos Estados Unidos?",
+        "Que esportes são mais praticados pela atletas paralímpicasques dos Estados Unidos?"
+      ],
       "en": "Which sports are most practiced by Paralympic athletes in the United States?",
       "example": "Nos Estados Unidos, os esportes paralímpicos mais praticados são...",
       "essential": true,
@@ -118,6 +139,12 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Esportes e movimento",
       "pt": "Ser um(a)(e) atleta",
+      "speech": "Ser um atleta",
+      "answers": [
+        "Ser um atleta",
+        "Ser uma atleta",
+        "Ser ume atleta"
+      ],
       "en": "to be an athlete",
       "example": "",
       "essential": false,
@@ -358,6 +385,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Os esportes",
       "pt": "O handebol/andebol",
+      "speech": "O handebol",
+      "answers": [
+        "O handebol",
+        "O andebol"
+      ],
       "en": "handball",
       "example": "",
       "essential": false,
@@ -742,6 +774,7 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Os uniformes",
       "pt": "O(s) short(s)",
+      "speech": "O short",
       "en": "shorts",
       "example": "",
       "essential": false,
@@ -870,6 +903,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Os movimentos físicos",
       "pt": "Deitar(-se)",
+      "speech": "Deitar",
+      "answers": [
+        "Deitar",
+        "Deitar -se"
+      ],
       "en": "to lie down",
       "example": "",
       "essential": false,
@@ -918,6 +956,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Os movimentos físicos",
       "pt": "Machucar(-se)",
+      "speech": "Machucar",
+      "answers": [
+        "Machucar",
+        "Machucar -se"
+      ],
       "en": "to hurt / get hurt",
       "example": "",
       "essential": false,
@@ -966,6 +1009,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Os movimentos físicos",
       "pt": "Proteger(-se)",
+      "speech": "Proteger",
+      "answers": [
+        "Proteger",
+        "Proteger -se"
+      ],
       "en": "to protect oneself",
       "example": "",
       "essential": false,
@@ -1022,6 +1070,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "Os movimentos físicos",
       "pt": "Sentar(-se)",
+      "speech": "Sentar",
+      "answers": [
+        "Sentar",
+        "Sentar -se"
+      ],
       "en": "to sit",
       "example": "",
       "essential": false,
@@ -1046,6 +1099,12 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "As competições",
       "pt": "O(a)(ê) competidor(a)(e)",
+      "speech": "O competidor",
+      "answers": [
+        "O competidor",
+        "A competidora",
+        "Ê competidore"
+      ],
       "en": "competitor",
       "example": "",
       "essential": false,
@@ -1118,6 +1177,12 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "As competições",
       "pt": "O(a)(ê) vencedor(a)(e)",
+      "speech": "O vencedor",
+      "answers": [
+        "O vencedor",
+        "A vencedora",
+        "Ê vencedore"
+      ],
       "en": "winner",
       "example": "",
       "essential": false,
@@ -1438,6 +1503,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "As emergências médicas",
       "pt": "Cortar(-se)",
+      "speech": "Cortar",
+      "answers": [
+        "Cortar",
+        "Cortar -se"
+      ],
       "en": "to cut oneself",
       "example": "",
       "essential": false,
@@ -1462,6 +1532,11 @@ window.FAST_PORTUGUESE_DATASETS["unit13"] = {
     {
       "category": "As emergências médicas",
       "pt": "Quebrar/partir um osso",
+      "speech": "Quebrar um osso",
+      "answers": [
+        "Quebrar um osso",
+        "partir um osso"
+      ],
       "en": "to break a bone",
       "example": "",
       "essential": false,

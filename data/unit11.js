@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Antes de entrar na universidade, você | tu já tinha(s) conhecido a biodiversidade dos países lusófonos?",
+      "speech": "Antes de entrar na universidade, você já tinha conhecido a biodiversidade dos países lusófonos?",
+      "answers": [
+        "Antes de entrar na universidade, você já tinha conhecido a biodiversidade dos países lusófonos?",
+        "Antes de entrar na universidade, tu já tinhas conhecido a biodiversidade dos países lusófonos?"
+      ],
       "en": "Before entering university, had you learned about the biodiversity of Lusophone countries?",
       "example": "Sim, eu já tinha a conhecido./Não, eu não tinha a conhecido./Mais ou menos. Eu tinha conhecido um pouco dela.",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu tem/tens feito para contribuir para a preservação do meio ambiente?",
+      "speech": "O que você tem feito para contribuir para a preservação do meio ambiente?",
+      "answers": [
+        "O que você tem feito para contribuir para a preservação do meio ambiente?",
+        "O que tu tens feito para contribuir para a preservação do meio ambiente?"
+      ],
       "en": "What have you been doing to contribute to environmental preservation?",
       "example": "Eu tenho...",
       "essential": true,
@@ -30,6 +40,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Que hábitos nocivos ao meio ambiente você | tu vê(s) na sua | tua comunidade e como mudá-los?",
+      "speech": "Que hábitos nocivos ao meio ambiente você vê na sua comunidade e como mudá-los?",
+      "answers": [
+        "Que hábitos nocivos ao meio ambiente você vê na sua comunidade e como mudá-los?",
+        "Que hábitos nocivos ao meio ambiente tu vês na tua comunidade e como mudá-los?"
+      ],
       "en": "What environmentally harmful habits do you see in your community and how can they be changed?",
       "example": "Eu vejo... Para mudar isso...",
       "essential": true,
@@ -38,6 +53,7 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "Perguntas-metas",
       "pt": "A que comunidades indígenas o território onde fica sua | tua universidade pertencia/pertence?",
+      "speech": "A que comunidades indígenas o território onde fica sua universidade pertencia?",
       "en": "Which Indigenous communities did/does the territory where your university is located belong to?",
       "example": "O território pertencia/pertence ao povo...",
       "essential": true,
@@ -118,6 +134,7 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "O ativismo ambiental",
       "pt": "Prejudicar a fauna/a flora/o meio ambiente",
+      "speech": "Prejudicar a fauna",
       "en": "to harm fauna/flora/the environment",
       "example": "",
       "essential": false,
@@ -654,6 +671,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "Os fenômenos da natureza",
       "pt": "A chuva (chover)",
+      "speech": "A chuva",
+      "answers": [
+        "A chuva",
+        "A chuva chover"
+      ],
       "en": "rain (to rain)",
       "example": "",
       "essential": false,
@@ -670,6 +692,12 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "Os fenômenos da natureza",
       "pt": "A neve (nevar)",
+      "speech": "nevar",
+      "answers": [
+        "A neve",
+        "nevar",
+        "A neve nevar"
+      ],
       "en": "snow (to snow)",
       "example": "",
       "essential": false,
@@ -742,6 +770,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Árido(a)",
+      "speech": "Árido",
+      "answers": [
+        "Árido",
+        "Árida"
+      ],
       "en": "arid",
       "example": "",
       "essential": false,
@@ -758,6 +791,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Chuvoso(a)",
+      "speech": "Chuvoso",
+      "answers": [
+        "Chuvoso",
+        "Chuvosa"
+      ],
       "en": "rainy",
       "example": "",
       "essential": false,
@@ -766,6 +804,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Encoberto(a)",
+      "speech": "Encoberto",
+      "answers": [
+        "Encoberto",
+        "Encoberta"
+      ],
       "en": "overcast",
       "example": "",
       "essential": false,
@@ -774,6 +817,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Ensolarado(a)",
+      "speech": "Ensolarado",
+      "answers": [
+        "Ensolarado",
+        "Ensolarada"
+      ],
       "en": "sunny",
       "example": "",
       "essential": false,
@@ -782,6 +830,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Fresco(a)",
+      "speech": "Fresco",
+      "answers": [
+        "Fresco",
+        "Fresca"
+      ],
       "en": "cool",
       "example": "",
       "essential": false,
@@ -790,6 +843,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Frio(a)",
+      "speech": "Frio",
+      "answers": [
+        "Frio",
+        "Fria"
+      ],
       "en": "cold",
       "example": "",
       "essential": false,
@@ -798,6 +856,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Gélido(a)",
+      "speech": "Gélido",
+      "answers": [
+        "Gélido",
+        "Gélida"
+      ],
       "en": "freezing",
       "example": "",
       "essential": false,
@@ -806,6 +869,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Seco(a)",
+      "speech": "Seco",
+      "answers": [
+        "Seco",
+        "Seca"
+      ],
       "en": "dry",
       "example": "",
       "essential": false,
@@ -814,6 +882,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Úmido(a)",
+      "speech": "Úmido",
+      "answers": [
+        "Úmido",
+        "Úmida"
+      ],
       "en": "humid",
       "example": "",
       "essential": false,
@@ -822,6 +895,11 @@ window.FAST_PORTUGUESE_DATASETS["unit11"] = {
     {
       "category": "A descrição do clima",
       "pt": "Ventoso(a)",
+      "speech": "Ventoso",
+      "answers": [
+        "Ventoso",
+        "Ventosa"
+      ],
       "en": "windy",
       "example": "",
       "essential": false,

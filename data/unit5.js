@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Onde você | tu mora(s)?",
+      "speech": "Onde você mora?",
+      "answers": [
+        "Onde você mora?",
+        "Onde tu moras?"
+      ],
       "en": "Where do you live?",
       "example": "Eu moro em...",
       "essential": true,
@@ -22,6 +27,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Onde estão suas | tuas tarefas?",
+      "speech": "Onde estão suas tarefas?",
+      "answers": [
+        "Onde estão suas tarefas?",
+        "Onde estão tuas tarefas?"
+      ],
       "en": "Where are your assignments?",
       "example": "Minhas tarefas ficam em, na, no...",
       "essential": true,
@@ -46,6 +56,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Você | tu conhece(s) alguma comunidade lusófona no campus?",
+      "speech": "Você conhece alguma comunidade lusófona no campus?",
+      "answers": [
+        "Você conhece alguma comunidade lusófona no campus?",
+        "Tu conheces alguma comunidade lusófona no campus?"
+      ],
       "en": "Do you know any Lusophone community on campus?",
       "example": "Eu (não) conheço. A comunidade está localizada em, na, no...",
       "essential": true,
@@ -110,6 +125,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Moradia",
       "pt": "Compartilhada(o)",
+      "speech": "Compartilhada",
+      "answers": [
+        "Compartilhada",
+        "Compartilhado"
+      ],
       "en": "shared",
       "example": "",
       "essential": false,
@@ -174,6 +194,12 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Moradia",
       "pt": "Privada(o)(e)",
+      "speech": "Privada",
+      "answers": [
+        "Privada",
+        "Privado",
+        "Privade"
+      ],
       "en": "private",
       "example": "",
       "essential": false,
@@ -806,6 +832,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Descrevendo moradias",
       "pt": "Ser grande, pequena(o)",
+      "speech": "Ser grande, pequena",
+      "answers": [
+        "Ser grande, pequena",
+        "Ser grande, pequeno"
+      ],
       "en": "to be large / small",
       "example": "",
       "essential": false,
@@ -814,6 +845,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Descrevendo moradias",
       "pt": "Ser ampla(o), espaçoso",
+      "speech": "Ser ampla, espaçoso",
+      "answers": [
+        "Ser ampla, espaçoso",
+        "Ser amplo, espaçoso"
+      ],
       "en": "to be spacious",
       "example": "",
       "essential": false,
@@ -830,6 +866,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Descrevendo moradias",
       "pt": "Estar limpa(o) ou suja(o)",
+      "speech": "Estar limpa ou suja",
+      "answers": [
+        "Estar limpa ou suja",
+        "Estar limpo ou sujo"
+      ],
       "en": "to be clean or dirty",
       "example": "",
       "essential": false,
@@ -838,6 +879,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Descrevendo moradias",
       "pt": "Estar organizada(o), estar desorganizada(o)",
+      "speech": "Estar organizada, estar desorganizada",
+      "answers": [
+        "Estar organizada, estar desorganizada",
+        "Estar organizado, estar desorganizado"
+      ],
       "en": "to be organized / disorganized",
       "example": "",
       "essential": false,
@@ -870,6 +916,11 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Descrevendo moradias",
       "pt": "Estar localizada(o) perto de comércios",
+      "speech": "Estar localizada perto de comércios",
+      "answers": [
+        "Estar localizada perto de comércios",
+        "Estar localizado perto de comércios"
+      ],
       "en": "to be located near shops/businesses",
       "example": "",
       "essential": false,
@@ -966,6 +1017,12 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Convivência com companheiros de quarto",
       "pt": "Preferir estar sozinha(o)(e) ou acompanhada(o)(e)",
+      "speech": "Preferir estar sozinha ou acompanhada",
+      "answers": [
+        "Preferir estar sozinha ou acompanhada",
+        "Preferir estar sozinho ou acompanhado",
+        "Preferir estar sozinhe ou acompanhade"
+      ],
       "en": "to prefer being alone or with company",
       "example": "",
       "essential": false,
@@ -1054,6 +1111,12 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Negociação de moradia",
       "pt": "Ser alérgica(o)(que)",
+      "speech": "Ser alérgica",
+      "answers": [
+        "Ser alérgica",
+        "Ser alérgico",
+        "Ser alérgique"
+      ],
       "en": "to be allergic",
       "example": "",
       "essential": false,
@@ -1070,6 +1133,12 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Negociação de moradia",
       "pt": "Conhecer a(o)(ê) síndica(o)(que)",
+      "speech": "Conhecer a síndica",
+      "answers": [
+        "Conhecer a síndica",
+        "Conhecer o síndico",
+        "Conhecer ê síndique"
+      ],
       "en": "to know the building manager/superintendent",
       "example": "",
       "essential": false,
@@ -1158,6 +1227,12 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Lazer em casa",
       "pt": "Estar com amigas(os)(ues)",
+      "speech": "Estar com amigas",
+      "answers": [
+        "Estar com amigas",
+        "Estar com amigasos",
+        "Estar com amigasues"
+      ],
       "en": "to be with friends",
       "example": "",
       "essential": false,
@@ -1174,6 +1249,12 @@ window.FAST_PORTUGUESE_DATASETS["unit5"] = {
     {
       "category": "Lazer em casa",
       "pt": "Ficar com a(o)(ê) namorada(o)(e)",
+      "speech": "Ficar com a namorada",
+      "answers": [
+        "Ficar com a namorada",
+        "Ficar com o namorado",
+        "Ficar com ê namorade"
+      ],
       "en": "to spend time with one's partner",
       "example": "",
       "essential": false,

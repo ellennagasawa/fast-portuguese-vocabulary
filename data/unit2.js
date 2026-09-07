@@ -14,6 +14,11 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Quem são seus | teus colegas?",
+      "speech": "Quem são seus colegas?",
+      "answers": [
+        "Quem são seus colegas?",
+        "Quem são teus colegas?"
+      ],
       "en": "Who are your classmates?",
       "example": "Meus | minhas colegas são...",
       "essential": true,
@@ -22,6 +27,11 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Por que você | tu estuda(s) português?",
+      "speech": "Por que você estuda português?",
+      "answers": [
+        "Por que você estuda português?",
+        "Por que tu estudas português?"
+      ],
       "en": "Why do you study Portuguese?",
       "example": "Estudo português porque...",
       "essential": true,
@@ -70,6 +80,11 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Cumprimentando",
       "pt": "Tudo bem? / Tudo bom?",
+      "speech": "Tudo bem?",
+      "answers": [
+        "Tudo bem?",
+        "Tudo bom?"
+      ],
       "en": "How are you? / Everything good?",
       "example": "",
       "essential": true,
@@ -78,6 +93,12 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Cumprimentando",
       "pt": "Tudo certo? / Tudo ok? / Como vai?",
+      "speech": "Tudo certo?",
+      "answers": [
+        "Tudo certo?",
+        "Tudo ok?",
+        "Como vai?"
+      ],
       "en": "Everything all right? / How are you?",
       "example": "",
       "essential": true,
@@ -86,6 +107,12 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Cumprimentando",
       "pt": "Bom dia! / Boa tarde! / Boa noite!",
+      "speech": "Bom dia!",
+      "answers": [
+        "Bom dia!",
+        "Boa tarde!",
+        "Boa noite!"
+      ],
       "en": "Good morning! / Good afternoon! / Good evening!",
       "example": "",
       "essential": true,
@@ -102,6 +129,11 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Procurando informações",
       "pt": "Onde ... está localizado(a)?",
+      "speech": "Onde... está localizado?",
+      "answers": [
+        "Onde... está localizado?",
+        "Onde... está localizada?"
+      ],
       "en": "Where is ... located?",
       "example": "",
       "essential": false,
@@ -118,6 +150,7 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Procurando informações",
       "pt": "Por que estuda(s) português?",
+      "speech": "Por que estuda português?",
       "en": "Why do you study Portuguese?",
       "example": "",
       "essential": false,
@@ -158,6 +191,12 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Expressando dúvida e estranhamento",
       "pt": "Estou perdida(o)(e).",
+      "speech": "Estou perdida.",
+      "answers": [
+        "Estou perdida.",
+        "Estou perdido.",
+        "Estou perdide."
+      ],
       "en": "I'm lost / confused.",
       "example": "",
       "essential": false,
@@ -190,6 +229,12 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Se despedindo",
       "pt": "Até logo! / Até mais! / Até a próxima!",
+      "speech": "Até logo!",
+      "answers": [
+        "Até logo!",
+        "Até mais!",
+        "Até a próxima!"
+      ],
       "en": "See you soon! / See you later! / Until next time!",
       "example": "",
       "essential": false,
@@ -198,6 +243,11 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Se despedindo",
       "pt": "A gente se encontra! / Nos encontramos!",
+      "speech": "A gente se encontra!",
+      "answers": [
+        "A gente se encontra!",
+        "Nos encontramos!"
+      ],
       "en": "See you! / We'll meet again!",
       "example": "",
       "essential": false,
@@ -302,6 +352,11 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Redes",
       "pt": "Curtir uma postagem / Gostar de uma postagem",
+      "speech": "Curtir uma postagem",
+      "answers": [
+        "Curtir uma postagem",
+        "Gostar de uma postagem"
+      ],
       "en": "to like a post",
       "example": "",
       "essential": false,
@@ -342,6 +397,12 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Redes",
       "pt": "Ter um(a)(e) seguidor(a)(e)",
+      "speech": "Ter um seguidor",
+      "answers": [
+        "Ter um seguidor",
+        "Ter uma seguidora",
+        "Ter ume seguidore"
+      ],
       "en": "to have a follower",
       "example": "",
       "essential": false,
@@ -478,6 +539,13 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Dia a dia",
       "pt": "Estar com fome/sede/calor/frio",
+      "speech": "Estar com fome",
+      "answers": [
+        "Estar com fome",
+        "Estar com sede",
+        "Estar com calor",
+        "Estar com frio"
+      ],
       "en": "to be hungry/thirsty/hot/cold",
       "example": "",
       "essential": false,
@@ -486,6 +554,12 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Dia a dia",
       "pt": "Estar ocupada(o)(e)",
+      "speech": "Estar ocupada",
+      "answers": [
+        "Estar ocupada",
+        "Estar ocupado",
+        "Estar ocupade"
+      ],
       "en": "to be busy",
       "example": "",
       "essential": false,
@@ -526,6 +600,13 @@ window.FAST_PORTUGUESE_DATASETS["unit2"] = {
     {
       "category": "Dia a dia",
       "pt": "Ter fome/sede/calor/frio",
+      "speech": "Ter fome",
+      "answers": [
+        "Ter fome",
+        "Ter sede",
+        "Ter calor",
+        "Ter frio"
+      ],
       "en": "to be hungry/thirsty/hot/cold",
       "example": "",
       "essential": false,

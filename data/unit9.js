@@ -6,6 +6,7 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Perguntas-metas",
       "pt": "O que você | tu está vestindo agora?",
+      "speech": "O que você está vestindo agora?",
       "en": "What are you wearing right now?",
       "example": "Eu estou vestindo/calçando/usando...",
       "essential": true,
@@ -14,6 +15,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Qual é seu | teu estilo de vestimenta?",
+      "speech": "Qual é seu estilo de vestimenta?",
+      "answers": [
+        "Qual é seu estilo de vestimenta?",
+        "Qual é teu estilo de vestimenta?"
+      ],
       "en": "What is your clothing style?",
       "example": "Meu estilo é urbano/confortável/casual/romântico/clássico/moderno/...",
       "essential": true,
@@ -22,6 +28,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Quem foi a última pessoa para quem você | tu deu | deste um presente?",
+      "speech": "Quem foi a última pessoa para quem você deu um presente?",
+      "answers": [
+        "Quem foi a última pessoa para quem você deu um presente?",
+        "Quem foi a última pessoa para quem tu deste um presente?"
+      ],
       "en": "Who was the last person you gave a gift to?",
       "example": "A última pessoa para quem dei um presente foi...",
       "essential": true,
@@ -38,6 +49,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Com que frequência você | tu compra(s) roupas e acessórios pela internet?",
+      "speech": "Com que frequência você compra roupas e acessórios pela internet?",
+      "answers": [
+        "Com que frequência você compra roupas e acessórios pela internet?",
+        "Com que frequência tu compras roupas e acessórios pela internet?"
+      ],
       "en": "How often do you buy clothes and accessories online?",
       "example": "Eu compro roupas e acessórios...",
       "essential": true,
@@ -46,6 +62,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Você | tu já deixou | deixaste de comprar em alguma loja específica por ter se decepcionado com a postura dela?",
+      "speech": "Você já deixou de comprar em alguma loja específica por ter se decepcionado com a postura dela?",
+      "answers": [
+        "Você já deixou de comprar em alguma loja específica por ter se decepcionado com a postura dela?",
+        "Tu já deixaste de comprar em alguma loja específica por ter se decepcionado com a postura dela?"
+      ],
       "en": "Have you ever stopped buying from a specific store because you were disappointed with its position/behavior?",
       "example": "Sim, já deixei de comprar em/na/no... Não, nunca deixei de comprar em nenhuma loja pela postura dela.",
       "essential": true,
@@ -54,6 +75,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "As roupas, os calçados e os acessórios",
       "pt": "A bermuda/o calção",
+      "speech": "A bermuda",
+      "answers": [
+        "A bermuda",
+        "o calção"
+      ],
       "en": "shorts",
       "example": "",
       "essential": false,
@@ -86,6 +112,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "As roupas, os calçados e os acessórios",
       "pt": "A calcinha/a cueca",
+      "speech": "A calcinha",
+      "answers": [
+        "A calcinha",
+        "a cueca"
+      ],
       "en": "underwear",
       "example": "",
       "essential": false,
@@ -302,6 +333,12 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "As roupas, os calçados e os acessórios",
       "pt": "O casaco (com capuz/sem capuz)",
+      "speech": "O casaco",
+      "answers": [
+        "O casaco",
+        "O casaco com capuz",
+        "O casaco sem capuz"
+      ],
       "en": "coat (with/without a hood)",
       "example": "",
       "essential": false,
@@ -350,6 +387,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "As roupas, os calçados e os acessórios",
       "pt": "O maiô/o fato de banho",
+      "speech": "O maiô",
+      "answers": [
+        "O maiô",
+        "o fato de banho"
+      ],
       "en": "swimsuit",
       "example": "",
       "essential": false,
@@ -422,6 +464,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "As roupas, os calçados e os acessórios",
       "pt": "O vestuário/a vestimenta",
+      "speech": "O vestuário",
+      "answers": [
+        "O vestuário",
+        "a vestimenta"
+      ],
       "en": "clothing/apparel",
       "example": "",
       "essential": false,
@@ -430,6 +477,7 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "As roupas, os calçados e os acessórios",
       "pt": "O(s) short(s)",
+      "speech": "O short",
       "en": "shorts",
       "example": "",
       "essential": false,
@@ -470,6 +518,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Pequena(o)",
+      "speech": "Pequena",
+      "answers": [
+        "Pequena",
+        "Pequeno"
+      ],
       "en": "small",
       "example": "",
       "essential": false,
@@ -478,6 +531,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Largo(a)",
+      "speech": "Largo",
+      "answers": [
+        "Largo",
+        "Larga"
+      ],
       "en": "wide/loose",
       "example": "",
       "essential": false,
@@ -486,6 +544,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Apertado(a)",
+      "speech": "Apertado",
+      "answers": [
+        "Apertado",
+        "Apertada"
+      ],
       "en": "tight",
       "example": "",
       "essential": false,
@@ -494,6 +557,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Comprido(a)",
+      "speech": "Comprido",
+      "answers": [
+        "Comprido",
+        "Comprida"
+      ],
       "en": "long",
       "example": "",
       "essential": false,
@@ -502,6 +570,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Curto(a)",
+      "speech": "Curto",
+      "answers": [
+        "Curto",
+        "Curta"
+      ],
       "en": "short",
       "example": "",
       "essential": false,
@@ -510,6 +583,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Liso(a)",
+      "speech": "Liso",
+      "answers": [
+        "Liso",
+        "Lisa"
+      ],
       "en": "plain/smooth",
       "example": "",
       "essential": false,
@@ -518,6 +596,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Estampado(a)",
+      "speech": "Estampado",
+      "answers": [
+        "Estampado",
+        "Estampada"
+      ],
       "en": "printed/patterned",
       "example": "",
       "essential": false,
@@ -526,6 +609,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Listrado(a)",
+      "speech": "Listrado",
+      "answers": [
+        "Listrado",
+        "Listrada"
+      ],
       "en": "striped",
       "example": "",
       "essential": false,
@@ -534,6 +622,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Rasgado(a)",
+      "speech": "Rasgado",
+      "answers": [
+        "Rasgado",
+        "Rasgada"
+      ],
       "en": "torn",
       "example": "",
       "essential": false,
@@ -542,6 +635,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Manchado(a)",
+      "speech": "Manchado",
+      "answers": [
+        "Manchado",
+        "Manchada"
+      ],
       "en": "stained",
       "example": "",
       "essential": false,
@@ -550,6 +648,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Claro(a)",
+      "speech": "Claro",
+      "answers": [
+        "Claro",
+        "Clara"
+      ],
       "en": "light-colored",
       "example": "",
       "essential": false,
@@ -558,6 +661,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Barato(a)",
+      "speech": "Barato",
+      "answers": [
+        "Barato",
+        "Barata"
+      ],
       "en": "cheap/inexpensive",
       "example": "",
       "essential": false,
@@ -566,6 +674,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Enfeitado(a)",
+      "speech": "Enfeitado",
+      "answers": [
+        "Enfeitado",
+        "Enfeitada"
+      ],
       "en": "decorated",
       "example": "",
       "essential": false,
@@ -574,6 +687,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Características de vestimentas e calçados",
       "pt": "Básico(a)",
+      "speech": "Básico",
+      "answers": [
+        "Básico",
+        "Básica"
+      ],
       "en": "basic",
       "example": "",
       "essential": false,
@@ -614,6 +732,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Comprar roupas de segunda-mão/seminovas",
+      "speech": "Comprar roupas de segunda-mão",
+      "answers": [
+        "Comprar roupas de segunda-mão",
+        "Comprar roupas de seminovas"
+      ],
       "en": "to buy second-hand/pre-owned clothes",
       "example": "",
       "essential": false,
@@ -622,6 +745,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Custar muito caro/barato",
+      "speech": "Custar muito caro",
+      "answers": [
+        "Custar muito caro",
+        "Custar muito barato"
+      ],
       "en": "to cost a lot / be cheap",
       "example": "",
       "essential": false,
@@ -670,6 +798,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Estar na promoção/liquidação",
+      "speech": "Estar na promoção",
+      "answers": [
+        "Estar na promoção",
+        "Estar na liquidação"
+      ],
       "en": "to be on sale/clearance",
       "example": "",
       "essential": false,
@@ -726,6 +859,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Pedir um recibo impresso/eletrônico",
+      "speech": "Pedir um recibo impresso",
+      "answers": [
+        "Pedir um recibo impresso",
+        "Pedir um recibo eletrônico"
+      ],
       "en": "to request a printed/electronic receipt",
       "example": "",
       "essential": false,
@@ -774,6 +912,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Servir bem/mal",
+      "speech": "Servir bem",
+      "answers": [
+        "Servir bem",
+        "Servir mal"
+      ],
       "en": "to fit well/poorly",
       "example": "",
       "essential": false,
@@ -790,6 +933,11 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Pedir um tamanho maior/menor",
+      "speech": "Pedir um tamanho maior",
+      "answers": [
+        "Pedir um tamanho maior",
+        "Pedir um tamanho menor"
+      ],
       "en": "to ask for a larger/smaller size",
       "example": "",
       "essential": false,
@@ -814,6 +962,7 @@ window.FAST_PORTUGUESE_DATASETS["unit9"] = {
     {
       "category": "Aquisição e consumo consciente",
       "pt": "Preferir blusas com mangas/sem mangas",
+      "speech": "Preferir blusas com mangas",
       "en": "to prefer tops with/without sleeves",
       "example": "",
       "essential": false,

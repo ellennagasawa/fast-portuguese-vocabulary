@@ -6,6 +6,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Para que lugares você | tu gostaria(s) de viajar? Por quê?",
+      "speech": "Para que lugares você gostaria de viajar? Por quê?",
+      "answers": [
+        "Para que lugares você gostaria de viajar? Por quê?",
+        "Para que lugares tu gostarias de viajar? Por quê?"
+      ],
       "en": "Where would you like to travel? Why?",
       "example": "Eu gostaria de viajar para... porque...",
       "essential": true,
@@ -14,6 +19,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Como você | tu planeja(s) uma viagem?",
+      "speech": "Como você planeja uma viagem?",
+      "answers": [
+        "Como você planeja uma viagem?",
+        "Como tu planejas uma viagem?"
+      ],
       "en": "How do you plan a trip?",
       "example": "Geralmente, eu...",
       "essential": true,
@@ -30,6 +40,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Se você | tu fosse(s) fazer um intercâmbio, qual tipo gostaria(s) de fazer?",
+      "speech": "Se você fosse fazer um intercâmbio, qual tipo gostaria de fazer?",
+      "answers": [
+        "Se você fosse fazer um intercâmbio, qual tipo gostaria de fazer?",
+        "Se tu fosses fazer um intercâmbio, qual tipo gostarias de fazer?"
+      ],
       "en": "If you were to do an exchange program, what kind would you like to do?",
       "example": "Se eu fizesse um intercâmbio, gostaria de...",
       "essential": true,
@@ -38,6 +53,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Perguntas-metas",
       "pt": "Para onde as pessoas do seu | teu país emigram? Indique a fonte.",
+      "speech": "Para onde as pessoas do seu país emigram? Indique a fonte.",
+      "answers": [
+        "Para onde as pessoas do seu país emigram? Indique a fonte.",
+        "Para onde as pessoas do teu país emigram? Indique a fonte."
+      ],
       "en": "Where do people from your country emigrate to? Cite the source.",
       "example": "De acordo com..., as pessoas no meu país emigram para...",
       "essential": true,
@@ -46,6 +66,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Acolher as(os)(ês) migrantes",
+      "speech": "Acolher as migrantes",
+      "answers": [
+        "Acolher as migrantes",
+        "Acolher os migrantes",
+        "Acolher ês migrantes"
+      ],
       "en": "to welcome migrants",
       "example": "",
       "essential": false,
@@ -78,6 +104,13 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Chegar à/na estação de ônibus/trem/ônibus",
+      "speech": "Chegar à estação de ônibus",
+      "answers": [
+        "Chegar à estação de ônibus",
+        "Chegar à estação de trem",
+        "Chegar na estação de ônibus",
+        "Chegar na estação de trem"
+      ],
       "en": "to arrive at the bus/train station",
       "example": "",
       "essential": false,
@@ -94,6 +127,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Contratar um(a) guia",
+      "speech": "Contratar um guia",
+      "answers": [
+        "Contratar um guia",
+        "Contratar uma guia"
+      ],
       "en": "to hire a guide",
       "example": "",
       "essential": false,
@@ -102,6 +140,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Despachar uma mala/bagagem",
+      "speech": "Despachar uma mala",
+      "answers": [
+        "Despachar uma mala",
+        "Despachar uma bagagem"
+      ],
       "en": "to check a suitcase/baggage",
       "example": "",
       "essential": false,
@@ -110,6 +153,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Emitir o cartão de embarque impresso/digital",
+      "speech": "Emitir o cartão de embarque impresso",
+      "answers": [
+        "Emitir o cartão de embarque impresso",
+        "Emitir o cartão de embarque digital"
+      ],
       "en": "to issue/print a boarding pass",
       "example": "",
       "essential": false,
@@ -118,6 +166,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Ficar em um alojamento/hotel/AirBnB",
+      "speech": "Ficar em um alojamento",
+      "answers": [
+        "Ficar em um alojamento",
+        "Ficar em um hotel",
+        "Ficar em um AirBnB"
+      ],
       "en": "to stay in lodging/hotel/Airbnb",
       "example": "",
       "essential": false,
@@ -230,6 +284,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Ser a(o)(ê) anfitriã(o)(e)",
+      "speech": "Ser a anfitriã",
+      "answers": [
+        "Ser a anfitriã",
+        "Ser o anfitrião",
+        "Ser ê anfitriãe"
+      ],
       "en": "to be a host",
       "example": "",
       "essential": false,
@@ -238,6 +298,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Ser um(a)(e) guia",
+      "speech": "Ser um guia",
+      "answers": [
+        "Ser um guia",
+        "Ser uma guia",
+        "Ser ume guia"
+      ],
       "en": "to be a guide",
       "example": "",
       "essential": false,
@@ -246,6 +312,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Ser um(a)(e) emigrante",
+      "speech": "Ser um emigrante",
+      "answers": [
+        "Ser um emigrante",
+        "Ser uma emigrante",
+        "Ser ume emigrante"
+      ],
       "en": "to be an emigrant",
       "example": "",
       "essential": false,
@@ -254,6 +326,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Ser um(a)(e) passageiro(a)(e)",
+      "speech": "Ser um passageiro",
+      "answers": [
+        "Ser um passageiro",
+        "Ser uma passageira",
+        "Ser ume passageire"
+      ],
       "en": "to be a passenger",
       "example": "",
       "essential": false,
@@ -262,6 +340,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Planejamento e viagens",
       "pt": "Ser um(a)(e) turista",
+      "speech": "Ser um turista",
+      "answers": [
+        "Ser um turista",
+        "Ser uma turista",
+        "Ser ume turista"
+      ],
       "en": "to be a tourist",
       "example": "",
       "essential": false,
@@ -270,6 +354,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Documentos e vistos",
       "pt": "A entrevista na embaixada/no consulado",
+      "speech": "A entrevista na embaixada",
+      "answers": [
+        "A entrevista na embaixada",
+        "A entrevista na no consulado"
+      ],
       "en": "embassy/consulate interview",
       "example": "",
       "essential": false,
@@ -294,6 +383,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Documentos e vistos",
       "pt": "A carteira da universidade/estudantil",
+      "speech": "A carteira da universidade",
+      "answers": [
+        "A carteira da universidade",
+        "A carteira da estudantil"
+      ],
       "en": "university/student ID",
       "example": "",
       "essential": false,
@@ -350,6 +444,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Documentos e vistos",
       "pt": "O visto de estudante/trabalho/turismo",
+      "speech": "O visto de estudante",
+      "answers": [
+        "O visto de estudante",
+        "O visto de trabalho",
+        "O visto de turismo"
+      ],
       "en": "student/work/tourist visa",
       "example": "",
       "essential": false,
@@ -414,6 +514,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Andar de transporte aéreo/férreo/naval",
+      "speech": "Andar de transporte aéreo",
+      "answers": [
+        "Andar de transporte aéreo",
+        "Andar de transporte férreo",
+        "Andar de transporte naval"
+      ],
       "en": "to travel by air/rail/sea",
       "example": "",
       "essential": false,
@@ -422,6 +528,7 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Andar de metrô/Andar de (moto)cicleta",
+      "speech": "Andar de metrô de cicleta",
       "en": "to travel by subway / motorcycle",
       "example": "",
       "essential": false,
@@ -438,6 +545,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Andar de trem/comboio",
+      "speech": "Andar de trem",
+      "answers": [
+        "Andar de trem",
+        "Andar de comboio"
+      ],
       "en": "to travel by train",
       "example": "",
       "essential": false,
@@ -446,6 +558,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Andar de ônibus/autocarro/machimbombo",
+      "speech": "Andar de ônibus",
+      "answers": [
+        "Andar de ônibus",
+        "Andar de autocarro",
+        "Andar de machimbombo"
+      ],
       "en": "to travel by bus",
       "example": "",
       "essential": false,
@@ -486,6 +604,14 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Ir de avião/bicicleta/carro/trem/navio...",
+      "speech": "Ir de avião",
+      "answers": [
+        "Ir de avião",
+        "Ir de bicicleta",
+        "Ir de carro",
+        "Ir de trem",
+        "Ir de navio..."
+      ],
       "en": "to go by plane/bicycle/car/train/ship...",
       "example": "",
       "essential": false,
@@ -518,6 +644,12 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Pegar o ônibus/autocarro/machimbombo",
+      "speech": "Pegar o ônibus",
+      "answers": [
+        "Pegar o ônibus",
+        "Pegar o autocarro",
+        "Pegar o machimbombo"
+      ],
       "en": "to take the bus",
       "example": "",
       "essential": false,
@@ -526,6 +658,11 @@ window.FAST_PORTUGUESE_DATASETS["unit14"] = {
     {
       "category": "Meios de transporte e combustível",
       "pt": "Pegar o trem/comboio",
+      "speech": "Pegar o trem",
+      "answers": [
+        "Pegar o trem",
+        "Pegar o comboio"
+      ],
       "en": "to take the train",
       "example": "",
       "essential": false,
