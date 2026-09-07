@@ -834,3 +834,11 @@ footer {
   transform: scale(1.05);
 }
 
+/* Controle de visibilidade dos botões de áudio nas atividades de prática.
+   O atributo hidden precisa prevalecer sobre as regras display do botão. */
+#exerciseListenBtn[hidden],
+#feedbackAudioRow[hidden],
+#feedbackAudioBtn[hidden] {
+  display: none !important;
+}
+
